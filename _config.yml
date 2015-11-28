@@ -1,7 +1,7 @@
 name: SHAPEAlaska
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.17863
+typography_spectrum: 0.2404
 title: "Ms. Kinikin's classroom blog for Ben Eielson Jr. Sr. High School"
 cta:
   domain: null
@@ -18,14 +18,14 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#010080'
-    - '#cdb3b5'
-    - '#346091'
-    - '#aee9fa'
-  brandStrength: 0.886261
-  lightness: 0.796171
-  saturation: 0.797297
-  rhythmicContrast: 0.301801
+    - '#000000'
+    - '#cf0000'
+    - '#cccccc'
+    - '#6f6f6e'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
