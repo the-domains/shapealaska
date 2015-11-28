@@ -1,18 +1,31 @@
-analytics: {}
+name: SHAPEAlaska
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.17863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#010080'
+    - '#cdb3b5'
+    - '#346091'
+    - '#aee9fa'
   brandStrength: 0.886261
   lightness: 0.796171
-  rhythmicContrast: 0.301801
   saturation: 0.797297
-cta: {}
-layout_spectrum: 0.80518
-name: SHAPEAlaska
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.261261
+  rhythmicContrast: 0.301801
+purpose:
+  - name: null
+    item: null
+    url: null
